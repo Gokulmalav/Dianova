@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Flutter
+.dart_tool/
+build/
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# Env files
+.env
+
+# Backup files
+*.save
+
+.git_backup/
+
+flutter_app/lib/services/flutter/
